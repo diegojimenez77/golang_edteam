@@ -23,7 +23,7 @@ func main() {
 	fmt.Println(so, dominio)
 
 	//iota nos ayuda a asignar valores sequenciales
-	//en el siguiente ejemplo iota nos ayda a darles valor contante a los meses a partir de Feb
+	//en el siguiente ejemplo iota nos ayda a darles valor constante a los meses a partir de Feb
 	//las constantes no es necesario usarlas para poder compilar
 	const (
 		Jan = iota + 1

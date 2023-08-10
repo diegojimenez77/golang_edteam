@@ -37,7 +37,7 @@ func main() {
 	fmt.Println(jitomate, pepino, zanahoria)
 
 	//Asignacion de variable dinamica
-	//Una vez sea asignado el timpo de dato no se va a poder modificar el tipo de dato
+	//Una vez sea asignado el tipo de dato no se va a poder modificar el tipo de dato
 	//El tipo de dato no se puede cambiar pero si el valor
 	//El asignador de variable corto no se puede usar para cambiar el valor uno a uno
 	numero, palomita, sillon := 1, "palomita", "sillon"
